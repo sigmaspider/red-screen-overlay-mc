@@ -3,7 +3,7 @@
   "header": {
     "description": "Turns the pumpkin blur into a solid Baldi red overlay!",
     "name": "Baldi Red Overlay",
-    "uuid": "6c269e35-1c6a-48e3-bfd1-052464be6842",
+    "uuid": "2087d474-1ff1-4b72-9957-379a52da8ad7",
     "version": [1, 20 0],
     "min_engine_version": [1, 20, 0]
   },
@@ -11,7 +11,7 @@
     {
       "description": "Baldi Red Overlay Module",
       "type": "resources",
-      "uuid": "063ea960-5777-4095-80ea-2890b53116bc",
+      "uuid": "0bbe22b6-45df-434a-9963-65944d66f72e",
       "version": [1, 20, 0]
     }
   ]
